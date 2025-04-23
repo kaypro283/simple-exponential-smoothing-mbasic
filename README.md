@@ -16,7 +16,7 @@ A MBASIC-80 implementation of the Simple Exponential Smoothing algorithm for tim
 This program is written in MBASIC-80 and is compatible with CP/M or DOS based systems or modern emulators that support MBASIC.
 
 ## Usage  
-1. Run the program in your MBASIC-80 environment.  
+1. Run the program in your MBASIC-80 interpreter.  
 2. Enter the number of historical data points (2–100).  
 3. Input the data values one by one.  
 4. Specify the forecast horizon (must satisfy N + H ≤ 100).  
