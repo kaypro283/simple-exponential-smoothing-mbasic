@@ -37,4 +37,4 @@ Interpretation guidance is provided based on MAPE thresholds.
 This project is provided for educational and historical computing purposes. No license specified.
 
 ## Author  
-Christopher D. Van Der Kaay, Ph.D. 
+Christopher D. van der Kaay, Ph.D. 
