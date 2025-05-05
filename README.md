@@ -9,7 +9,6 @@ A MBASIC-80 implementation of the Simple Exponential Smoothing algorithm for tim
 - Statistical measures: MAE, MSE, RMSE, MAPE, SMAPE  
 - 95% forecast confidence intervals  
 - Interactive stationarity checks (mean/variance shift and differencing)  
-- Simple ASCII-based plotting of historical and forecasted values  
 - Printable statistical summary and chart  
 
 ## Requirements  
